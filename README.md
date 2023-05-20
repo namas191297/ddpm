@@ -33,7 +33,8 @@ matplotlib
 eionops 
 pillow
 ```
-3. Create the following empty folders:
+
+3.Create the following empty folders:
 1. data
 2. data/train/
 3. data/test/
