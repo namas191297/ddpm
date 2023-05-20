@@ -33,7 +33,13 @@ matplotlib
 eionops 
 pillow
 ```
-
+3. Create the following empty folders:
+1. data
+2. data/train/
+3. data/test/
+4. inference_output
+5. training_checkpoints
+6. training_outputs
 
 ## Training
 
